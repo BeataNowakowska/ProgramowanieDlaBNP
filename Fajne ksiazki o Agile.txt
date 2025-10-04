@@ -1,0 +1,34 @@
+# Najciekawsze książki o Agile
+
+1. *Scrum. O zwinnym zarządzaniu projektami* — Jeff Sutherland  
+   Klasyka gatunku, napisana przez jednego z twórców Scruma. Przystępna, inspirująca i praktyczna.
+
+2. *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble, Gene Kim  
+   Oparta na badaniach analiza praktyk, które naprawdę wpływają na efektywność zespołów.
+
+3. *The Agile Samurai: How Agile Masters Deliver Great Software* — Jonathan Rasmusson  
+   Lekka i dowcipna książka pokazująca, jak wprowadzać Agile w życie w sposób zdroworozsądkowy.
+
+4. *Coaching Agile Teams* — Lyssa Adkins  
+   Pozycja obowiązkowa dla Scrum Masterów i Agile Coachów. Dużo o roli lidera służebnego i pracy z zespołem.
+
+5. *Agile Estimating and Planning* — Mike Cohn  
+   Praktyczny podręcznik o szacowaniu, planowaniu i zarządzaniu backlogiem.
+
+6. *The Art of Agile Development* — James Shore, Shane Warden  
+   Szczegółowy przewodnik po praktykach XP i Agile w realnych zespołach programistycznych.
+
+7. *Scrum Mastery: From Good to Great Servant-Leadership* — Geoff Watts  
+   Pokazuje, jak rozwijać się jako Scrum Master i budować partnerskie relacje z zespołem.
+
+8. *Essential Scrum* — Kenneth S. Rubin  
+   Kompendium wiedzy o Scrumie — idealne dla początkujących i zaawansowanych praktyków.
+
+9. *Turn the Ship Around!* — L. David Marquet  
+   Nie jest to książka stricte o Agile, ale fantastycznie pokazuje przywództwo oparte na zaufaniu i odpowiedzialności.
+
+10. *Team Topologies* — Matthew Skelton, Manuel Pais  
+    Świetna pozycja o strukturze zespołów i współpracy w dużych organizacjach.
+
+---
+Plik przygotowany przez Beatę (2025-10-05)
