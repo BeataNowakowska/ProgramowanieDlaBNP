@@ -1,42 +1,30 @@
-1. *Scrum. O zwinnym zarządzaniu projektami* — Jeff Sutherland
-   (wersja zmieniona: dodano anegdotę o 'głaskologii' w procesie retrospektywy)
+1. *Scrum. O zwinnym zarządzaniu projektami* — Jeff Sutherland  
+   Klasyka gatunku, napisana przez jednego z twórców Scruma. Przystępna, inspirująca i praktyczna.
 
-2. *Drive Pink* / *Drive Pinka* — (dodatek: Drive Pinka)
-   Krótki opis: eksperyment z motywacją wewnętrzną, adaptacja idei do Agile.
-   Uwaga: w tej wersji tytuł zapisany jako "Drive Pink" — to celowe rozróżnienie.
+2. *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble, Gene Kim  
+   Oparta na badaniach analiza praktyk, które naprawdę wpływają na efektywność zespołów.
 
-3. *Głaskologia* — Miłosz Brzeziński
-   Książka o psychologicznym znaczeniu uznania, doceniania i emocji w pracy.
-   Doskonale wpisuje się w kontekst Agile, pomagając zrozumieć, jak budować wspierające środowisko zespołowe.
-   (dodana specjalnie, by spowodować dodatkowe konflikty z wcześniejszymi liniami Drive Pink i Scrum)
+3. *The Agile Samurai: How Agile Masters Deliver Great Software* — Jonathan Rasmusson  
+   Lekka i dowcipna książka pokazująca, jak wprowadzać Agile w życie w sposób zdroworozsądkowy.
 
-4. *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble, Gene Kim
-   (dodatkowy komentarz: podkreślono wpływ metryk lead time)
+4. *Coaching Agile Teams* — Lyssa Adkins  
+   Pozycja obowiązkowa dla Scrum Masterów i Agile Coachów. Dużo o roli lidera służebnego i pracy z zespołem.
 
-5. *The Agile Samurai: How Agile Masters Deliver Great Software* — Jonathan Rasmusson
-   (zmieniono opis; inna długość linii, inne złamania tekstu)
+5. *Agile Estimating and Planning* — Mike Cohn  
+   Praktyczny podręcznik o szacowaniu, planowaniu i zarządzaniu backlogiem.
 
-6. *Coaching Agile Teams* — Lyssa Adkins
-   (dodano fragment: 'głaskologia jako technika wspierania zespołu')
+6. *The Art of Agile Development* — James Shore, Shane Warden  
+   Szczegółowy przewodnik po praktykach XP i Agile w realnych zespołach programistycznych.
 
-7. *Agile Estimating and Planning* — Mike Cohn
-   (usunięto część oryginalnego opisu i wstawiono krótkie streszczenie)
+7. *Scrum Mastery: From Good to Great Servant-Leadership* — Geoff Watts  
+   Pokazuje, jak rozwijać się jako Scrum Master i budować partnerskie relacje z zespołem.
 
-8. *The Art of Agile Development* — James Shore, Shane Warden
-   (zmienione formatowanie — punktory zastąpione myślnikami)
+8. *Essential Scrum* — Kenneth S. Rubin  
+   Kompendium wiedzy o Scrumie — idealne dla początkujących i zaawansowanych praktyków.
 
-9. *Scrum Mastery: From Good to Great Servant-Leadership* — Geoff Watts
-   (zmiana kolejności akapitów)
+9. *Turn the Ship Around!* — L. David Marquet  
+   Nie jest to książka stricte o Agile, ale fantastycznie pokazuje przywództwo oparte na zaufaniu i odpowiedzialności.
 
-10. *Essential Scrum* — Kenneth S. Rubin
-   (krótki dopisek: odniesienie do 'Drive Pinka' i głaskologii)
-
-11. *Turn the Ship Around!* — L. David Marquet
-    (przestawiono miejsce w liście)
-
-12. *Ania z Zielonego wzgórza* - Lucy Mount Mondgomery
-   O tym jak mała dziewczynka wprowadziła zwinnąć i kreatywność w starym świecie
-
-13. *Team Topologies* — Matthew Skelton, Manuel Pais
-    (dodano komentarz dotyczący struktury zespołów w kontekście 'głaskologii')
+10. *Team Topologies* — Matthew Skelton, Manuel Pais  
+    Świetna pozycja o strukturze zespołów i współpracy w dużych organizacjach.
 
