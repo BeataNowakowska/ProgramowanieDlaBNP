@@ -11,7 +11,10 @@ class OsobaIT(ABC):
         self.tekst = ""
 
     def daj_glos(self):
-        return f"{self.imie}, jak to {self.profesja}, mówi: {self.tekst}"
+        return self.imie + " mówi: " + self.tekst
+
+    def zgoda(self):
+        return self.imie + ": Tak"
 
 
 class Programista(OsobaIT):
@@ -29,6 +32,9 @@ class Tester(OsobaIT):
         self.profesja = "tester"
         self.tekst = "O, znowu coś zepsuliście."
 
+    def zgoda(self):
+        return self.imie + ": No może być"
+
 
 class ScrumMaster(OsobaIT):
 
@@ -36,6 +42,9 @@ class ScrumMaster(OsobaIT):
         super().__init__(imie)
         self.profesja = "Scrum Masterka"
         self.tekst = "Czuję, że powinniśmy zrobić burzę mózgów."
+
+    def zgoda(self):
+        return self.imie + ": Ależ oczywiście"
 
 
 class DevOps(OsobaIT):
@@ -45,6 +54,9 @@ class DevOps(OsobaIT):
         self.profesja = "DevOpsowiec"
         self.tekst = "W produkcji? To ciekawe..."
 
+    def zgoda(self):
+        return self.imie + ": OK"
+
 
 class ProductOwner(OsobaIT):
 
@@ -52,6 +64,9 @@ class ProductOwner(OsobaIT):
         super().__init__(imie)
         self.profesja = "Product Ownerka"
         self.tekst = "Czy możemy to mieć na wczoraj?"
+
+    def zgoda(self):
+        return self.imie + ": Wyrażam zgodę"
 
 
 class UXDesigner(OsobaIT):
@@ -71,13 +86,26 @@ def stworz_osoby():
         ProductOwner("Ewa"),
         UXDesigner("Filip"),
     ]
-    random.shuffle(osoby)  # tasowanie ukryte tutaj
+
     return osoby
+
+
+def wszycy_się_zgadzają():
+    osoby = stworz_osoby()
+    print("Czy zgadzamy się co do celu Sprintu?")
+    print()
+
+    for i in osoby:
+        print(i.zgoda())
 
 
 def main():
     ania = Programista("Ania")
     print(ania.daj_glos())
+    bartek = ProductOwner("Barter")
+    print(bartek.daj_glos())
+
+    wszycy_się_zgadzają()
 
 
 if __name__ == "__main__":
