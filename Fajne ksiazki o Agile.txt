@@ -29,27 +29,33 @@
    Nie jest to książka stricte o Agile, ale fantastycznie pokazuje przywództwo oparte na zaufaniu i odpowiedzialności.
 
 10. *Team Topologies* — Matthew Skelton, Manuel Pais  
+
+    Świetna pozycja o strukturze zespołów i współpracy w dużych organizacjach.
+11. Człowiek w poszukiwaniu sensu - Viktor Frankl
+   książka o logoterapii
+
     Świetna pozycja o strukturze zespołów i współpracy w dużych organizacjach. Nowoczesna 
 
-11. *Głaskologia* — Miłosz Brzeziński  
+12. *Głaskologia* — Miłosz Brzeziński  
     O tym dlaczego warto być dla ludzi dobrym
 
-12. "The Professional Product Owner" - Don McGreal, Ralpf Jocham
+13. "The Professional Product Owner" - Don McGreal, Ralpf Jocham
     O podstawach dla PO ;)
 
-13. "Clean Code" - Robert C.Martin
+14. "Clean Code" - Robert C.Martin
    O tym, czego nigdy się nie nauczę :P 
 
-14. *Drive* - Daniel Pink
+15. *Drive* - Daniel Pink
    Spojrzenie o motywacji
 
-15. * Esencjalista* - Greg McKeown
+16. * Esencjalista* - Greg McKeown
    Jak robić mniej :)
 
-16. "Siła Nawyku" - Nie pamiętam nazwiska
+17. "Siła Nawyku" - Nie pamiętam nazwiska
    Książka o potędze małych kroków i wytrwałości
 
-17. Sen - nic tak nie wspiera zwinności jak wyspany umysł ;)
+18. Sen - nic tak nie wspiera zwinności jak wyspany umysł ;)
+
 
 
 
