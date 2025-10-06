@@ -1,3 +1,6 @@
+0. *Building Software in 30 Days* - Ken Shwaber
+   O tym skąd wziął się Scrum
+
 1. *Scrum. O zwinnym zarządzaniu projektami* — Jeff Sutherland  
    Klasyka gatunku, napisana przez jednego z twórców Scruma. Przystępna, inspirująca i praktyczna.
 
@@ -36,3 +39,10 @@ Spojrzenie o motywacji
 
 13. * Esencjalista* - Greg McKeown
 Jak robić mniej :)
+
+14. "Siła Nawyku" - Nie pamiętam nazwiska
+   Książka o potędze małych kroków i wytrwałości
+
+15. Sen - nic tak nie wspiera zwinności jak wyspany umysł ;)
+
+
