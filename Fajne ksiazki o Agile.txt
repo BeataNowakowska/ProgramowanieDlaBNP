@@ -1,3 +1,6 @@
+0. *Building Software in 30 Days* - Ken Shwaber
+   O tym skąd wziął się Scrum
+
 1. *Scrum. O zwinnym zarządzaniu projektami* — Jeff Sutherland  
    Klasyka gatunku, napisana przez jednego z twórców Scruma. Przystępna, inspirująca i praktyczna.
 
@@ -26,10 +29,38 @@
    Nie jest to książka stricte o Agile, ale fantastycznie pokazuje przywództwo oparte na zaufaniu i odpowiedzialności.
 
 10. *Team Topologies* — Matthew Skelton, Manuel Pais  
+
     Świetna pozycja o strukturze zespołów i współpracy w dużych organizacjach.
 
-11. *Zwinni inaczej* - Konrad Markiewicz
+
+11. Człowiek w poszukiwaniu sensu - Viktor Frankl
+   książka o logoterapii
+
+    Świetna pozycja o strukturze zespołów i współpracy w dużych organizacjach. Nowoczesna 
+
+12. *Głaskologia* — Miłosz Brzeziński  
+    O tym dlaczego warto być dla ludzi dobrym
+
+13. "The Professional Product Owner" - Don McGreal, Ralpf Jocham
+    O podstawach dla PO ;)
+
+14. "Clean Code" - Robert C.Martin
+   O tym, czego nigdy się nie nauczę :P 
+
+15. *Drive* - Daniel Pink
+   Spojrzenie o motywacji
+
+16. * Esencjalista* - Greg McKeown
+   Jak robić mniej :)
+
+17. "Siła Nawyku" - Nie pamiętam nazwiska
+   Książka o potędze małych kroków i wytrwałości
+
+18. Sen - nic tak nie wspiera zwinności jak wyspany umysł ;)
+
+19. *Zwinni inaczej* - Konrad Markiewicz
    Ble ble ble 
 
-12. *Otoczeni przez idiotów* - Thomas Erikson
+20. *Otoczeni przez idiotów* - Thomas Erikson
    Możemy pozostać przy przekonaniu, że jesteśmy otoczeni przez idiotów, ale tak naprawdę otaczają nas ludzie o czterech różnych typach osobowości. Wystarczy umieć je zidentyfikować, a praca, życie i współdziałanie z nimi będzie jak bułka z masłem. A ile nam to zaoszczędzi niepotrzebnych nerwów!
+
