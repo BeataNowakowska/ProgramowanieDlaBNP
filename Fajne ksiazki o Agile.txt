@@ -30,3 +30,9 @@
 
 11. *Głaskologia* — Miłosz Brzeziński  
     O tym dlaczego warto być dla ludzi dobrym
+
+12. "The Professional Product Owner" - Don McGreal, Ralpf Jocham
+    O podstawach dla PO ;)
+
+13. "Clean Code" - Robert C.Martin
+   O tym, czego nigdy się nie nauczę :P 
