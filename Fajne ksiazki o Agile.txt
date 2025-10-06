@@ -34,15 +34,22 @@
 11. *Głaskologia* — Miłosz Brzeziński  
     O tym dlaczego warto być dla ludzi dobrym
 
-12. *Drive* - Daniel Pink
+12. "The Professional Product Owner" - Don McGreal, Ralpf Jocham
+    O podstawach dla PO ;)
+
+13. "Clean Code" - Robert C.Martin
+   O tym, czego nigdy się nie nauczę :P 
+
+14. *Drive* - Daniel Pink
    Spojrzenie o motywacji
 
-13. * Esencjalista* - Greg McKeown
+15. * Esencjalista* - Greg McKeown
    Jak robić mniej :)
 
-14. "Siła Nawyku" - Nie pamiętam nazwiska
+16. "Siła Nawyku" - Nie pamiętam nazwiska
    Książka o potędze małych kroków i wytrwałości
 
-15. Sen - nic tak nie wspiera zwinności jak wyspany umysł ;)
+17. Sen - nic tak nie wspiera zwinności jak wyspany umysł ;)
+
 
 
