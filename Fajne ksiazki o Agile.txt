@@ -1,3 +1,6 @@
+0. *Building Software in 30 Days* - Ken Shwaber
+   O tym skąd wziął się Scrum
+
 1. *Scrum. O zwinnym zarządzaniu projektami* — Jeff Sutherland  
    Klasyka gatunku, napisana przez jednego z twórców Scruma. Przystępna, inspirująca i praktyczna.
 
@@ -26,7 +29,7 @@
    Nie jest to książka stricte o Agile, ale fantastycznie pokazuje przywództwo oparte na zaufaniu i odpowiedzialności.
 
 10. *Team Topologies* — Matthew Skelton, Manuel Pais  
-    Świetna pozycja o strukturze zespołów i współpracy w dużych organizacjach.
+    Świetna pozycja o strukturze zespołów i współpracy w dużych organizacjach. Nowoczesna 
 
 11. *Głaskologia* — Miłosz Brzeziński  
     O tym dlaczego warto być dla ludzi dobrym
@@ -36,3 +39,17 @@
 
 13. "Clean Code" - Robert C.Martin
    O tym, czego nigdy się nie nauczę :P 
+
+14. *Drive* - Daniel Pink
+   Spojrzenie o motywacji
+
+15. * Esencjalista* - Greg McKeown
+   Jak robić mniej :)
+
+16. "Siła Nawyku" - Nie pamiętam nazwiska
+   Książka o potędze małych kroków i wytrwałości
+
+17. Sen - nic tak nie wspiera zwinności jak wyspany umysł ;)
+
+
+
