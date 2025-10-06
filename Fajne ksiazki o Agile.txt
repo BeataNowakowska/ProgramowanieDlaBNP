@@ -27,9 +27,3 @@
 
 10. *Team Topologies* — Matthew Skelton, Manuel Pais  
     Świetna pozycja o strukturze zespołów i współpracy w dużych organizacjach.
-
-
-11. *Drive: The Surprising Truth About What Motivates Us* — Daniel H. Pink
-    Książka o motywacji wewnętrznej — o tym, jak autonomia, mistrzostwo i poczucie celu napędzają ludzi.
-    Świetnie pasuje do filozofii Agile, pomagając zrozumieć, jak tworzyć środowisko sprzyjające zaangażowaniu i samodzielności zespołów.
-
